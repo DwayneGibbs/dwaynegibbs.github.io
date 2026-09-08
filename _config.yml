@@ -1,0 +1,30 @@
+title: Dwayne Gibbs
+tagline: Quality Engineer Specialist Sr, Entrepreneur, and Teacher
+description: >-
+  Portfolio and resume of Dwayne Gibbs — Sr. Software & Quality Engineer
+  specializing in test automation, DevOps, and cloud-native quality engineering.
+url: "https://dwaynegibbs.github.io"
+baseurl: ""
+
+author:
+  name: Dwayne Gibbs
+  email: contact@dwaynegibbs.net
+  github: DwayneGibbs
+  linkedin: dhgibbs
+
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules

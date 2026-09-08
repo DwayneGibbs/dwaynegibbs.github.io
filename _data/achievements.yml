@@ -1,0 +1,98 @@
+- name: "Cybersecurity: Managing Risk in the Information Age"
+  type: Certification
+  issuer: HarvardX
+  description: >-
+    Completed HarvardX's cybersecurity program focused on managing risk in the
+    information age.
+  link: https://harvardx.credential.getsmarter.com/65efc18a-1649-4305-bd7a-965d1e8cc3e6#acc.1h5WcBIp
+  link_text: Verify certificate
+
+- name: "Artificial Intelligence Foundations: Machine Learning"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Building Web APIs with ASP.NET Web API 2.2"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "C# Test Driven Development"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Chef Essential Training"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Creating Bots with the Microsoft Bot Framework, Part 1"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Creating Bots with the Microsoft Bot Framework, Part 2"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Designing RESTful APIs"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "DevOps Foundations: Continuous Delivery and Continuous Integration"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "DevOps Foundations: DevSecOps"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "DevOps Foundations: Infrastructure as Code"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "DevOps Foundations: Lean and Agile"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Fluent API Development in C#"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "HTTP Essential Training"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Learning Kubernetes"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Learning REST APIs"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Writing to Be Heard on LinkedIn"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: LinkedIn Learning certificate of completion.
+
+- name: "Safe & Secure 2023"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: Certificate file supplied as safe-secure-2023.pdf.
+
+- name: "LinkedIn Learning Certificate of Completion"
+  type: Certification
+  issuer: LinkedIn Learning
+  description: Certificate file supplied as LinkedIn Learning Certificate.pdf.

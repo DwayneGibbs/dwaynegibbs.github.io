@@ -1,0 +1,42 @@
+# Update these skill categories/items to match your expertise.
+- category: Test Automation
+  items:
+    - Selenium WebDriver
+    - Playwright
+    - Cypress
+    - Appium
+    - REST Assured / API Testing
+    - BDD (Cucumber / SpecFlow)
+
+- category: DevOps & CI/CD
+  items:
+    - Azure DevOps Pipelines
+    - GitHub Actions
+    - Jenkins
+    - Docker
+    - Kubernetes
+    - Terraform / Bicep
+
+- category: Languages
+  items:
+    - C# / .NET
+    - Java
+    - JavaScript / TypeScript
+    - Python
+    - PowerShell
+    - SQL
+
+- category: Quality Engineering
+  items:
+    - Test Strategy & Planning
+    - Performance Testing (JMeter, k6)
+    - Shift-Left Testing
+    - Risk-Based Testing
+    - Test Metrics & Reporting
+
+- category: Cloud & Infrastructure
+  items:
+    - Microsoft Azure
+    - AWS
+    - Application Insights / Observability
+    - Microservices Architecture
