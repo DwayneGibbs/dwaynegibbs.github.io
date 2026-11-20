@@ -1,31 +1,21 @@
 # dwaynegibbs.github.io
 
-Personal portfolio / resume site built with Jekyll, hosted on GitHub Pages.
+## Project Outcome
 
-## Customize your content
+A personal profile and portfolio that shares my interests, past, current, and future projects, reading, blog posts, social connections, and credentials.
 
-All editable content lives in `_data/` and `_config.yml` — no HTML editing required for the basics:
+## In the Que
 
-- `_config.yml` — name, tagline, description, email, GitHub/LinkedIn usernames.
-- `_data/experience.yml` — work history / timeline entries.
-- `_data/achievements.yml` — certifications and other achievements.
-- `_data/projects.yml` — current and previous projects (`status: current | previous`).
-- `_data/skills.yml` — grouped skill tags.
-- `index.html` — hero summary and about paragraph.
-- `assets/resume/2026 Resume dhgibbs.pdf` — resume PDF linked from the "Download Resume" button.
+- Add the interests and projects from the profile sketch.
+- Share what I am reading and books I have read.
+- Explore an automatically updated blog that credits its sources.
+- Review social connections and options for displaying credentials.
 
-## Run locally
+See the [task list](tasklist/tasklist.md) for details.
 
-Requires Ruby + Bundler.
+## Completed
 
-```powershell
-bundle install
-bundle exec jekyll serve
-```
+- Created a single-page Jekyll portfolio and resume site with experience, education, achievements, skills, and a resume download.
+- Added a projects section ready for current and previous projects, plus GitHub and LinkedIn links.
 
-Then open http://localhost:4000
-
-## Deploy
-
-GitHub Pages builds this automatically from the `main` branch using Jekyll — just push to `main`.
-Repo Settings > Pages should have source set to "Deploy from a branch" > `main` / `(root)`.
+For content editing, local setup, and deployment instructions, see the [project guide](.github/project-guide.md).
